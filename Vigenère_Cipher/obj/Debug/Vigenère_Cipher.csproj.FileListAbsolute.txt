@@ -1,0 +1,7 @@
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\bin\Debug\Vigenère_Cipher.exe.config
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\bin\Debug\Vigenère_Cipher.exe
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\bin\Debug\Vigenère_Cipher.pdb
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\obj\Debug\Vigenère_Cipher.csproj.AssemblyReference.cache
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\obj\Debug\Vigenère_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\obj\Debug\Vigenère_Cipher.exe
+C:\Users\rasci\Desktop\Vigenère_Cipher\Vigenère_Cipher\obj\Debug\Vigenère_Cipher.pdb
